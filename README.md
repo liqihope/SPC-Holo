@@ -1,2 +1,2 @@
 # SPC-Holo
-Dataset-free learning for ultra-multi-depth computer-generated holography
+Full-color 3D neural holography via stochastic physically consistent light field
